@@ -30,6 +30,8 @@
     border-radius: 15px;
     width: 450px;
     height: 450px;
+    max-width: 100%;
+    height: auto;
 }
 
 .PhotoCaption{

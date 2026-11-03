@@ -44,6 +44,8 @@
 .MateriaImage{
     border: 5px solid black;
     border-radius: 15px;
+    max-width: 100%;
+    height: auto;
 }
 
 .MateriaButton{
